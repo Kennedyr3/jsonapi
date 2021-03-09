@@ -1,29 +1,19 @@
+[
 {
-  "state": {
-    "data": [
-      {
-        "title": "Sorvete",
-        "data": [
-          {
-            "key": 1,
-            "name": "Ice Creem Social",
-            "name2": 1000,
-            "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
-          },
-          {
-            "key": 2,
-            "name": "Sorvete Kibon Tabito",
-            "name2": 20,
-            "image": "https://araujo.vteximg.com.br/arquivos/ids/4024199-1000-1000/07891075131606.jpg?v=637411906561070000"
-          },
-          {
-            "key": 3,
-            "name": "Cornetto Kibon",
-            "name2": 15,
-            "image": "https://www.kibon.com.br/content/dam/unilever/cornetto/greece/pack_design/8710908918001_cornetto_classico-1211454-png.png"
-          }
-        ]
-      }
-    ]
-  }
+  "title": "Title 1",
+  "data": ["Item 1-1", "Item 1-2", "Item 1-3"]
+},
+{
+  "title": "Title 2",
+  "data": ["Item 2-1", "Item 2-2", "Item 2-3"]
+},
+{
+  "title": "Title 3",
+  "data": ["Item 3-1"]
+},
+{
+  "title": "Title 4",
+  "data": ["Item 4-1", "Item 4-2"]
 }
+
+]

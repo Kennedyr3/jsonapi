@@ -1,17 +1,19 @@
-{
-  "title": "Sorvete",
-  "data": [
-    {
-      "key": 1,
-      "name": "Ice Creem Social",
-      "name2": 1000,
-      "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
-    },
-    {
-      "key": 1,
-      "name": "Ice Creem Social",
-      "name2": 1000,
-      "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
-    }
-  ]
-}
+[
+  {
+    "title": "Sorvete",
+    "data": [
+      {
+        "key": 1,
+        "name": "Ice Creem Social",
+        "name2": 1000,
+        "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
+      },
+      {
+        "key": 1,
+        "name": "Ice Creem Social",
+        "name2": 1000,
+        "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
+      }
+    ]
+  }
+]

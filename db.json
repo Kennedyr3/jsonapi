@@ -1,22 +1,18 @@
 [
   {
-    "data": [
-      {
-        "key": "f6c4079f-556a-4455-9c0c-67bda1b07d3b",
-        "name": "Berinjela á parmegiana",
-        "name2": 39.9,
-        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004302314_U0vB_p.png"
-      }
-    ]
-  },
-  {
-    "data": [
-      {
-        "key": "f6c4079f-556a-4455-9c0c-67bda1b07d3b",
-        "name": "Berinjela á parmegiana",
-        "name2": 39.9,
-        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004302314_U0vB_p.png"
-      }
-    ]
-  }
+  
+  "data": ["Item 1-1", "Item 1-2", "Item 1-3"]
+},
+{
+ 
+  "data": ["Item 2-1", "Item 2-2", "Item 2-3"]
+},
+{
+ 
+  "data": ["Item 3-1"]
+},
+{
+ 
+  "data": ["Item 4-1", "Item 4-2"]
+}
 ]

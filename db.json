@@ -1,21 +1,16 @@
 {
-   "data": [
-  {
-    "title": "Sorvete",
-    "data": [
-      {
-        "key": 1,
-        "name": "Ice Creem Social",
-        "name2": 1000,
-        "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
-      },
-      {
-        "key": 1,
-        "name": "Ice Creem Social",
-        "name2": 1000,
-        "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png"
-      }
-    ]
-  }
-]
+  "data": [
+    {
+      "partners_name": "Geni Food",
+      "category": "Brasileira",
+      "star": 3,
+      "image": null
+    },
+    {
+      "partners_name": "Pastelaria Cavalcant's",
+      "category": "Brasileira",
+      "star": 4.38,
+      "image": null
+    }
+  ]
 }

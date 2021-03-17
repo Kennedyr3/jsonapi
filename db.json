@@ -1,9 +1,28 @@
+// {
+//   "data": [
+//     {
+//       "partners_name": "Geni Food",
+//       "category": "Brasileira",
+//       "star": 3,
+//       "image": null
+//     },
+//     {
+//       "partners_name": "Pastelaria Cavalcant's",
+//       "category": "Brasileira",
+//       "star": 4.38,
+//       "image": null
+//     }
+//   ]
+// }
+
 {
   "data": [
     {
+      "id": 1,
       "name": "Restaurantes"
     },
     {
+      "id": 2,
       "name": "Pizza"
     }
   ]

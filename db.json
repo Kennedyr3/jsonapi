@@ -22,8 +22,12 @@
       "name": "Restaurantes"
     },
     {
-      "id": 21,
+      "id": 1,
       "name": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Carnes"
     }
   ]
 }

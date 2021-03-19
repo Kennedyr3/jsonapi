@@ -13,6 +13,480 @@
         "name": "Bife a parmegiana mais um pudim de leite",
         "name2": 54.9,
         "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202003261031_pTsx_i.jpg"
+      },
+      {
+        "key": "883c67ed-fda5-4a01-9d1e-70e78a0f511b",
+        "name": "Carne assada",
+        "name2": 41.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004271102_bBnL_i.jpg"
+      },
+      {
+        "key": "4825d75d-3124-4391-9194-36228e402a4e",
+        "name": "Carne assada p/2 pessoas",
+        "name2": 77.31,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004301143_AtPO_i.jpg"
+      },
+      {
+        "key": "42547765-50e5-4998-8bac-8fbe609e2280",
+        "name": "Contra filé á cavalo",
+        "name2": 47.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202010061059_FZp1_c.jpg"
+      },
+      {
+        "key": "b218ce5e-53c8-4d49-a169-a965015aaa87",
+        "name": "Feijoada especial individual mais uma coca lata 220 ml",
+        "name2": 56.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201906280044_OlD2_f.jpg"
+      },
+      {
+        "key": "6dbf5462-1044-46d1-a3b1-42ddb1e454ad",
+        "name": "Feijoada mineira para 3 pessoas",
+        "name2": 99,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903082038_feijo.png"
+      },
+      {
+        "key": "89edeca3-4d73-49a3-9183-7e483bdd3d17",
+        "name": "Feijoada para 2 pessoas",
+        "name2": 79.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903082038_feijo.png"
+      },
+      {
+        "key": "55d00c10-6898-4b07-b64c-afb65900cbad",
+        "name": "File Mingnhon Com Salada",
+        "name2": 51.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202009300848_5bfV_m.jpg"
+      },
+      {
+        "key": "7b1e03de-6717-406f-98d7-b38556e410de",
+        "name": "File de frango a milanesa",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "d54fce5d-1f9a-4073-bac5-0fa18f98676b",
+        "name": "Filet de frango á parmigiana",
+        "name2": 44.91,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201905052357_Fp3K_i.jpg"
+      },
+      {
+        "key": "c2fbd851-9177-4d0b-a17b-6b385a63cfcd",
+        "name": "Filé de frango grelhado.",
+        "name2": 37.7,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202001171136_cPHu_f.jpg"
+      },
+      {
+        "key": "2e0bf8e8-2afe-47e1-ae60-30b74c934478",
+        "name": "Filé mignon á parmegiana",
+        "name2": 61.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202101011923_Eu2r_.jpeg"
+      },
+      {
+        "key": "4d6e8e20-e89c-48ee-a585-2b2029bcaa26",
+        "name": "Lombo assado",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004302246_Ja1C_l.jpg"
+      },
+      {
+        "key": "f5190ba8-8884-48ce-a3fc-3e2908e3acce",
+        "name": "Mexida mineira",
+        "name2": 38.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202001171133_wIlN_m.jpg"
+      },
+      {
+        "key": "f6a8148d-edb8-4ad9-ae68-6596ba79c2a9",
+        "name": "Picadinho de alcatra",
+        "name2": 38.8,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "6936b94c-6e6b-4d5c-b2c1-d49e81b529f5",
+        "name": "Salmão grelhado",
+        "name2": 54.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004302301_Gz46_s.jpg"
+      },
+      {
+        "key": "17bcb00a-b10b-4921-898e-1ceb771e91e5",
+        "name": "Strogonoff de carne",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202001171135_t9is_s.jpg"
+      },
+      {
+        "key": "791f6565-9dea-4277-b81c-a3f0faf34252",
+        "name": "Strogonoff de frango",
+        "name2": 35.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202001171143_CrUG_s.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Massas",
+    "data": [
+      {
+        "key": "d244f82f-115b-41e6-b8af-00f157a67116",
+        "name": "Angnolotti Verde",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202101081717_vbgu_.jpeg"
+      },
+      {
+        "key": "52b163d9-0fe5-4ec3-b805-cd8acdea9ed9",
+        "name": "Nhoque De Mandioquinha",
+        "name2": 42.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202101081711_kaKN_.jpeg"
+      },
+      {
+        "key": "4ae3d176-c602-40cd-a851-29f46489442f",
+        "name": "Sofioli",
+        "name2": 42.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202101081700_SCSP_.jpeg"
+      }
+    ]
+  },
+  {
+    "title": "Pratos para duas pessoas",
+    "data": [
+      {
+        "key": "b479e4f4-e4d1-4192-bcc0-4145e267c3aa",
+        "name": "Berinjela á parmegiana para duas pessoas",
+        "name2": 72,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "a6b42851-e258-4336-83b6-5a0bc9c946e4",
+        "name": "Bife A Parmegiana Para Duas Pessoas",
+        "name2": 77.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072052_RMrQ_m.jpg"
+      },
+      {
+        "key": "2323561c-4d7b-465e-91d3-da719e0e4316",
+        "name": "File De Frango A Parmegiana Para Duas Pessoas",
+        "name2": 63.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202007141518_NncB_f.png"
+      },
+      {
+        "key": "88693564-5e1f-49f9-9c3a-27e6b6708eac",
+        "name": "File Mignon A Parmegiana Serve 3 Pessoas Gratis Um Refri 2 Litros",
+        "name2": 135.7,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202101081726_7yFu_.jpeg"
+      },
+      {
+        "key": "887dd51d-fd42-40eb-a340-e59c7e4803f4",
+        "name": "Lombo assado para duas pessoas",
+        "name2": 74.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202101081739_0HJr_.jpeg"
+      },
+      {
+        "key": "1487dd76-aeea-4d08-ac33-9a84633eae51",
+        "name": "Mexida mineira para duas pessaos",
+        "name2": 76.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201901261032_image1.png"
+      },
+      {
+        "key": "ce6ebd34-8eb1-4a5a-bdce-9be74c75df6b",
+        "name": "Picanha mineira para duas pessoas",
+        "name2": 92,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903081938_img_2.jpg"
+      },
+      {
+        "key": "e988ab54-525c-448e-aaf0-754c132f23b7",
+        "name": "Picanaha Aregentina Para 3 Pessoas Gratis Um Refri 2 Litros",
+        "name2": 138,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903081938_img_2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Para Acompanhar A Sua Refeição",
+    "data": [
+      {
+        "key": "e0819244-6605-4716-8145-7a405078d94b",
+        "name": "Alamos Malbec.",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "1ee56a03-c0eb-45b0-b34d-2f482ccd4743",
+        "name": "Catena Malbec",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "01735564-5014-4ea4-8b60-3e827993f87e",
+        "name": "Santa Helena Reservado Cabernet Sauvignon",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      }
+    ]
+  },
+  {
+    "title": "Pratos individuais",
+    "data": [
+      {
+        "key": "84a4195e-f552-414d-8a06-9a5df771f0d6",
+        "name": "Berinjela á parmegiana",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "329ebef8-087e-4b98-9a3b-49e2ab6e3a0d",
+        "name": "Bife á parmegiana",
+        "name2": 39.7,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903082008_parme.jpg"
+      },
+      {
+        "key": "3dd1ec67-350e-4545-bb59-b7fab84a76b5",
+        "name": "Contra filet grelhado",
+        "name2": 44.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201902051118_001la.jpg"
+      },
+      {
+        "key": "512bcb77-01f8-475b-82fc-527ff4c9038c",
+        "name": "Feijoada mineira",
+        "name2": 49.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903082032_feijo.png"
+      },
+      {
+        "key": "7c09c43c-c742-4ede-b06d-7104a039e611",
+        "name": "Filet de frango",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201902021123_p_201.jpg"
+      },
+      {
+        "key": "14cdde90-344e-4d5b-b249-5518257d0cea",
+        "name": "Mexida mineira",
+        "name2": 38.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201902051114_001la.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Pizzas doces",
+    "data": [
+      {
+        "key": "0cd118f2-aff1-351e-880c-d3152d6f5323",
+        "name": "BROTO (4 PEDAÇOS)",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "fbe41321-f161-3429-aa8d-435fdda3a692",
+        "name": "BROTO 2 SABORES (4 PEDAÇOS)",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "b6b4937d-65ed-30f5-bcfe-2012b418d6fd",
+        "name": "GRANDE (8 PEDAÇOS)",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "1c8821c0-87cd-3ea2-aefb-f4134886ece7",
+        "name": "GRANDE 2 SABORES (8 PEDAÇOS)",
+        "name2": 0,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      }
+    ]
+  },
+  {
+    "title": "Pizzas promocionais",
+    "data": [
+      {
+        "key": "d0150c91-7395-4a34-bfa3-7d60ed253a76",
+        "name": "Marguerita",
+        "name2": 54,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201911091820_FUTR_.jpeg"
+      }
+    ]
+  },
+  {
+    "title": "Pratos promocionais",
+    "data": [
+      {
+        "key": "31735853-c3cc-4bf7-b398-b09adb2b3cb8",
+        "name": "1/2 picanha mineira (serve 2 pessoas)",
+        "name2": 95,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903081947_img_2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Combo la da roça",
+    "data": [
+      {
+        "key": "ae8bce70-fc7c-4107-93ca-b980a533acdb",
+        "name": "Picanha mineira+coca de 1,5lts (serve até 3 pessoas)",
+        "name2": 135,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903081938_img_2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "La da roça",
+    "data": [
+      {
+        "key": "9671bab8-1e79-41e9-900e-8aa0be9f1445",
+        "name": "Picanha mineira (serve até 3 pessoas )",
+        "name2": 135,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201903081938_img_2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Guarnições",
+    "data": [
+      {
+        "key": "668e0e1b-fdb6-46ec-a6dc-d7e2bbd32370",
+        "name": "Purê de batata",
+        "name2": 10.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "1ff59087-66ed-40de-a468-36c5c4056b1c",
+        "name": "Feijão preto",
+        "name2": 10.2,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072120_7L6r_i.jpg"
+      },
+      {
+        "key": "31110904-4a98-4caf-82d2-e0cd11d5300c",
+        "name": "Banana a milanesa",
+        "name2": 10.5,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072122_6CIP_d.jpg"
+      },
+      {
+        "key": "8ab336e1-7289-4e4a-85c4-14178f681de0",
+        "name": "Ovo frito",
+        "name2": 3.5,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072123_gj9S_s.jpg"
+      },
+      {
+        "key": "115ce4f3-36a3-4f7b-89b6-eda508c89f2b",
+        "name": "Arroz integral",
+        "name2": 13.99,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072128_5fmL_.jpeg"
+      },
+      {
+        "key": "00d8def8-4751-4624-b702-685bc2e5c5ca",
+        "name": "Arroz branco",
+        "name2": 14.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072135_rp4K_d.jpg"
+      },
+      {
+        "key": "06532508-01fe-4d59-8aa5-959d7deca799",
+        "name": "Feijão carioca",
+        "name2": 9.6,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072141_wsYa_f.jpg"
+      },
+      {
+        "key": "48a56867-edd0-461d-9e93-046d0f6a278f",
+        "name": "Arroz biro biro",
+        "name2": 23.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201910072144_SJCD_a.jpg"
+      }
+    ]
+  },
+  {
+    "title": "SOBREMESAS",
+    "data": [
+      {
+        "key": "9646c422-bd89-4b0b-b01c-847e8ed5d628",
+        "name": "Doce de Leite",
+        "name2": 8,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "5a978efa-2b65-437b-9806-8b42482b7012",
+        "name": "Doce 400g",
+        "name2": 40,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "792d0c0d-3aad-4379-8903-67c711e51707",
+        "name": "Pudim de leite ",
+        "name2": 8,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "8b7d1003-632c-475a-8d29-7c7f49073aad",
+        "name": "Mousse de limão",
+        "name2": 8,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "b65bf324-a3a7-47c8-aade-2d4b6024ff84",
+        "name": "Mousse de maracujá",
+        "name2": 8,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      }
+    ]
+  },
+  {
+    "title": "Refrigerantes e águas",
+    "data": [
+      {
+        "key": "3059ba41-8e3a-4ec9-8777-095fa48312db",
+        "name": "Coca cola 600ml",
+        "name2": 9.5,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "62bfbe73-dcf7-4f74-97bb-94971f527583",
+        "name": "Coca cola lata 220 ml",
+        "name2": 4,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "72969899-ca4e-4e82-b4bf-e43f76a98de9",
+        "name": "Guaraná 600 ml",
+        "name2": 8.5,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "96f8e651-a400-4d95-ac4b-d96a18b32498",
+        "name": "Schweppes Citrus 1,5 Litros",
+        "name2": 16,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "16998982-b918-4b35-94a0-cfd8e6898d32",
+        "name": "Refrigerante 350ml",
+        "name2": 6,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "0eec83fd-c96f-4861-a0a1-6333253db589",
+        "name": "Sucos de polpa 300ml",
+        "name2": 5.3,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "fd919a84-ac40-4bf6-ab12-5566c28a8788",
+        "name": "Limoneto",
+        "name2": 6.3,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/201905060032_YUjX_l.jpg"
+      },
+      {
+        "key": "3bdd693e-76d7-40a8-9188-89532ad5d325",
+        "name": "H2O",
+        "name2": 6.3,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "93ecb860-64c7-4b20-b284-d033453f3db6",
+        "name": "Água com gás",
+        "name2": 4.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "e12e4a7e-44a7-4751-9748-4899506ef34b",
+        "name": "Água sem gás",
+        "name2": 4.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
+      },
+      {
+        "key": "fbead51a-8740-4436-aa5d-cb9137832d0a",
+        "name": "Heineken",
+        "name2": 15,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/undefined"
       }
     ]
   }

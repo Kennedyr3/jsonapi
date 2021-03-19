@@ -1,16 +1,21 @@
-[
-  {
-    "title": "Os Mais Vendidos",
-    "data": [
+{
+  "data": [
       {
-        "name": "Berinjela á parmegiana",
-        "name2": 39.9
-      },
-      {
-     
-        "name": "Bife a parmegiana mais um pudim de leite",
-        "name2": 54.9
+        "title": "Sorvete",
+        "data": [
+          { "key": 1,
+            "name": "Ice Creem Social",
+            "name2": 1000,
+            "image": "https://d25dk4h1q4vl9b.cloudfront.net/media/images/menu-content/BR/sobremesas/NGK_FlurryOREO-biscoitos.png" },
+          { "key": 2,
+            "name": "Sorvete Kibon Tabito",
+            "name2": 20,
+            "image": "https://araujo.vteximg.com.br/arquivos/ids/4024199-1000-1000/07891075131606.jpg?v=637411906561070000" },
+          { "key": 3,
+            "name": "Cornetto Kibon",
+            "name2": 15,
+            "image": "https://www.kibon.com.br/content/dam/unilever/cornetto/greece/pack_design/8710908918001_cornetto_classico-1211454-png.png" }
+        ]
       }
     ]
   }
-]

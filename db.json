@@ -1,16 +1,24 @@
 {
   "data": [
     {
-      "title": "Sorvete",
-      "data": [
-        {
-          "id": 14,
-          "menu_category": "Pizza",
-          "name": "lanche teste",
-          "description": " ",
-          "actual_price": 16.9
-        }
-      ]
+      "id": 0,
+      "title": "Restaurantes"
+    },
+    {
+      "id": 1,
+      "title": "Gourmet"
+    },
+    {
+      "id": 2,
+      "title": "Bebidas"
+    },
+    {
+      "id": 3,
+      "title": "Rapidas"
+    },
+    {
+      "id": 4,
+      "title": "Promoções"
     }
   ]
 }

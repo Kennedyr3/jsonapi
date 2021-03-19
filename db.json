@@ -3,16 +3,13 @@
     "title": "Os Mais Vendidos",
     "data": [
       {
-        
         "name": "Berinjela á parmegiana",
-        "name2": 39.9,
-        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004302314_U0vB_p.png"
+        "name2": 39.9
       },
       {
      
         "name": "Bife a parmegiana mais um pudim de leite",
-        "name2": 54.9,
-        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202003261031_pTsx_i.jpg"
+        "name2": 54.9
       }
     ]
   }

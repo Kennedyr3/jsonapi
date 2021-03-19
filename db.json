@@ -1,24 +1,11 @@
 {
   "data": [
-    {
-      "id": 0,
-      "title": "Restaurantes"
-    },
-    {
-      "id": 1,
-      "title": "Pizza"
-    },
-    {
-      "id": 2,
-      "title": "Carnes"
-    },
-    {
-      "id": 3,
-      "title": "Salada"
-    },
-    {
-      "id": 4,
-      "title": "Promoções"
-    }
+      {
+          "id": 14,
+          "menu_category": "Pizza",
+          "name": "lanche teste",
+          "description": " ",
+          "actual_price": 16.9
+      }
   ]
 }

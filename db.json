@@ -1,13 +1,24 @@
 {
   "data": [
-      {
-          "name": "Restaurante do Sertão",
-          "logo_url": "7cd58c51-c893-429c-8389-3dbaf861eb12/202008062256_MVFu_i.jpg",
-          "star": 4.32,
-          "menu_category": "Pizza",
-          "day_of_week": "Segunda a sexta",
-          "period": "Manhã, Tarde e Noite",
-          "start_time": "08:00:00"
-      }
+    {
+      "id": 0,
+      "title": "Restaurantes"
+    },
+    {
+      "id": 1,
+      "title": "Pizza"
+    },
+    {
+      "id": 2,
+      "title": "Carnes"
+    },
+    {
+      "id": 3,
+      "title": "Salada"
+    },
+    {
+      "id": 4,
+      "title": "Promoções"
+    }
   ]
 }

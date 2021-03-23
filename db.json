@@ -2,23 +2,23 @@
   "data": [
     {
       "id": 0,
-      "title": "Restaurantes"
+      "title": "Pra retirar"
     },
     {
       "id": 1,
-      "title": "Pizza"
+      "title": "Entrega grátis"
     },
     {
       "id": 2,
-      "title": "Carnes"
+      "title": "Vale-refeição"
     },
     {
       "id": 3,
-      "title": "Salada"
+      "title": "Distancia"
     },
     {
       "id": 4,
-      "title": "Promoções"
+      "title": "Entrega Parceira"
     }
   ]
 }

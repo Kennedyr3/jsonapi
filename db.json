@@ -1,17 +1,13 @@
 [
   {
-      "data": [
-        {
-          "menu_category": "Pizza",
-          "data": [
-            {
-              "id": 14,
-              "name": "lanche teste",
-              "description": " ",
-              "actual_price": 16.9
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    "menu_category": "Pizza",
+    "data": [
+      {
+        "id": 14,
+        "name": "lanche teste",
+        "description": " ",
+        "actual_price": 16.9
+      }
+    ]
+  }
+]

@@ -1,24 +1,18 @@
-{
-  "data": [
-    {
-      "id": 0,
-      "title": "Pra retirar"
-    },
-    {
-      "id": 1,
-      "title": "Entrega grátis"
-    },
-    {
-      "id": 2,
-      "title": "Vale-refeição"
-    },
-    {
-      "id": 3,
-      "title": "Distancia"
-    },
-    {
-      "id": 4,
-      "title": "Entrega Parceira"
+[
+  {
+      "data": [
+        {
+          "title": "Sorvete",
+          "data": [
+            {
+              "id": 14,
+              "menu_category": "Pizza",
+              "name": "lanche teste",
+              "description": " ",
+              "actual_price": 16.9
+            }
+          ]
+        }
+      ]
     }
   ]
-}

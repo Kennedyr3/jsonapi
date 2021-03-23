@@ -2,11 +2,10 @@
   {
       "data": [
         {
-          "title": "Sorvete",
+          "menu_category": "Pizza",
           "data": [
             {
               "id": 14,
-              "menu_category": "Pizza",
               "name": "lanche teste",
               "description": " ",
               "actual_price": 16.9

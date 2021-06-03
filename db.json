@@ -1,32 +1,26 @@
-{
-  "menu": [
-    {
-      "data": [
-        {
-          "menu_categories": "Kids",
-          "menu_categories_id": 90,
-          "data": [
-            {
-              "name": "Monte seu Combo Menu Executivo",
-              "description": "Monte seu Combo Menu Executivo",
-              "actual_price": 61,
-              "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011412_T5V9_f.png"
-            },
-            {
-              "name": "Ravioli de Pêra",
-              "description": "Ravioli de Pêra",
-              "actual_price": 58,
-              "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011112_V5Pt_f.png"
-            },
-            {
-              "name": "Polpetone com Tagliolini",
-              "description": "Polpetone com Tagliolini",
-              "actual_price": 58,
-              "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202010071147_Utvx_f.png"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "menu_categories": "Kids",
+    "menu_categories_id": 90,
+    "data": [
+      {
+        "name": "Monte seu Combo Menu Executivo",
+        "description": "Monte seu Combo Menu Executivo",
+        "actual_price": 61,
+        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011412_T5V9_f.png"
+      },
+      {
+        "name": "Ravioli de Pêra",
+        "description": "Ravioli de Pêra",
+        "actual_price": 58,
+        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011112_V5Pt_f.png"
+      },
+      {
+        "name": "Polpetone com Tagliolini",
+        "description": "Polpetone com Tagliolini",
+        "actual_price": 58,
+        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202010071147_Utvx_f.png"
+      }
+    ]
+  }
+]

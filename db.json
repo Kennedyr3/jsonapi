@@ -1,47 +1,87 @@
 [
   {
-    "menu_categoriess": "Kids",
     "data": [
       {
-        "name": "Monte seu Combo Menu Executivo",
-        "description": "Monte seu Combo Menu Executivo",
-        "actual_price": 61,
-        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011412_T5V9_f.png"
+        "name_option": "Escolha sua Entrada",
+        "data": [
+          {
+            "id_items": 10831,
+            "name_items": "Polenta Cremosa",
+            "price": 12
+          },
+          {
+            "id_items": 10832,
+            "name_items": "Salada do Dia",
+            "price": 12
+          }
+        ]
       },
       {
-        "name": "Ravioli de Pêra",
-        "description": "Ravioli de Pêra",
-        "actual_price": 58,
-        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011112_V5Pt_f.png"
+        "name_option": "Escolha seu Principal",
+        "id_option": 2377,
+        "data": [
+          {
+            "id_items": 10833,
+            "name_items": "Picadinho",
+            "price": 12
+          },
+          {
+            "id_items": 10834,
+            "name_items": "Polpetone com Tagliolini",
+            "price": 10
+          },
+          {
+            "id_items": 10835,
+            "name_items": "Galeto Atropelado",
+            "price": 12
+          },
+          {
+            "id_items": 10836,
+            "name_items": "Picci de Cordeiro",
+            "price": 12
+          },
+          {
+            "id_items": 10837,
+            "name_items": "Cappellini de Lula",
+            "price": 12
+          },
+          {
+            "id_items": 10838,
+            "name_items": "Peixe do Mercado",
+            "price": 12
+          },
+          {
+            "id_items": 10839,
+            "name_items": "Rigatoni de Grano Duro",
+            "price": 12
+          },
+          {
+            "id_items": 10840,
+            "name_items": "Tortelli de Ricota de Búfala",
+            "price": 12
+          }
+        ]
       },
       {
-        "name": "Polpetone com Tagliolini",
-        "description": "Polpetone com Tagliolini",
-        "actual_price": 58,
-        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202010071147_Utvx_f.png"
-      }
-    ]
-  },
-  {
-    "menu_categoriess": "Kidss",
-    "data": [
-      {
-        "name": "Monte seu Combo Menu Executivo",
-        "description": "Monte seu Combo Menu Executivo",
-        "actual_price": 61,
-        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011412_T5V9_f.png"
-      },
-      {
-        "name": "Ravioli de Pêra",
-        "description": "Ravioli de Pêra",
-        "actual_price": 58,
-        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202102011112_V5Pt_f.png"
-      },
-      {
-        "name": "Polpetone com Tagliolini",
-        "description": "Polpetone com Tagliolini",
-        "actual_price": 58,
-        "image_url": "https://static-images.ifood.com.br/image/upload/t_low/pratos/bdb96ed7-195c-40b0-85a5-033ddeae2ba7/202010071147_Utvx_f.png"
+        "name_option": "Escolha sua Sobremesa",
+        "id_option": 2378,
+        "data": [
+          {
+            "id_items": 10841,
+            "name_items": "Criação do Dia",
+            "price": 12
+          },
+          {
+            "id_items": 10842,
+            "name_items": "Mix de Frutas da Estação",
+            "price": 12
+          },
+          {
+            "id_items": 10843,
+            "name_items": "Abacaxi",
+            "price": 12
+          }
+        ]
       }
     ]
   }

@@ -1,87 +1,12 @@
 [
   {
+    "title": "Os Mais Vendidos",
     "data": [
       {
-        "name_option": "Escolha sua Entrada",
-        "data": [
-          {
-            "id_items": 10831,
-            "name_items": "Polenta Cremosa",
-            "price": 12
-          },
-          {
-            "id_items": 10832,
-            "name_items": "Salada do Dia",
-            "price": 12
-          }
-        ]
-      },
-      {
-        "name_option": "Escolha seu Principal",
-        "id_option": 2377,
-        "data": [
-          {
-            "id_items": 10833,
-            "name_items": "Picadinho",
-            "price": 12
-          },
-          {
-            "id_items": 10834,
-            "name_items": "Polpetone com Tagliolini",
-            "price": 10
-          },
-          {
-            "id_items": 10835,
-            "name_items": "Galeto Atropelado",
-            "price": 12
-          },
-          {
-            "id_items": 10836,
-            "name_items": "Picci de Cordeiro",
-            "price": 12
-          },
-          {
-            "id_items": 10837,
-            "name_items": "Cappellini de Lula",
-            "price": 12
-          },
-          {
-            "id_items": 10838,
-            "name_items": "Peixe do Mercado",
-            "price": 12
-          },
-          {
-            "id_items": 10839,
-            "name_items": "Rigatoni de Grano Duro",
-            "price": 12
-          },
-          {
-            "id_items": 10840,
-            "name_items": "Tortelli de Ricota de Búfala",
-            "price": 12
-          }
-        ]
-      },
-      {
-        "name_option": "Escolha sua Sobremesa",
-        "id_option": 2378,
-        "data": [
-          {
-            "id_items": 10841,
-            "name_items": "Criação do Dia",
-            "price": 12
-          },
-          {
-            "id_items": 10842,
-            "name_items": "Mix de Frutas da Estação",
-            "price": 12
-          },
-          {
-            "id_items": 10843,
-            "name_items": "Abacaxi",
-            "price": 12
-          }
-        ]
+        "key": "f6c4079f-556a-4455-9c0c-67bda1b07d3b",
+        "name": "Berinjela á parmegiana",
+        "name2": 39.9,
+        "image": "https://static-images.ifood.com.br/image/upload/t_low/pratos/0b5f9d81-9f93-4b8a-9f34-ca1094708222/202004302314_U0vB_p.png"
       }
     ]
   }
